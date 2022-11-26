@@ -1,0 +1,30 @@
+.simbull {
+    color: white;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+body {
+    background-color: salmon;
+}
+
+.evern {
+    border-radius: 20px;
+    width: 200px;
+}
+
+#output {
+    width: 400px;
+    padding: 20px;
+    border-top: 9px saddlebrown solid;
+    background-color: aliceblue;
+    border-radius: 18px;
+}
+
+#p1 {
+    display: inline;
+}
+
+#p2 {
+    display: inline;
+}
